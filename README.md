@@ -3,7 +3,7 @@
 ```
 git clone https://github.com/saga-pattern-demo/how-to-run.git
 ```
-## Make sure docker is running, then run this command
+## Please ensure that Docker is running and execute this command.
 ```
 docker-compose up -d
 ```
